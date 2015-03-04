@@ -1,5 +1,5 @@
 // this is my blink sketch.  Is it going to work?
-int led = 13;
+int led = 13; //set pin 13 as output
 
 void setup() {                
 
